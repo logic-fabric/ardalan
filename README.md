@@ -1,2 +1,3 @@
-# ardalan
-Ardalan Portfolio - March 2024
+# Ardalan Portfolio - March 2024
+
+Portfolio of the Parisian artist Ardalan.
